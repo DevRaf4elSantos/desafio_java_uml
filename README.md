@@ -56,7 +56,7 @@ E obtive sucesso como mostram os resultados:
 
 Com esse resuldo comecei a desenvolver a classe de navegação e telefone com a mesma estrutura obtendo bons resultados como mostrado na imagem abaixo:
 
-![img.png](img.png)
+![img.png](src/img/img.png)
 
 
-![img_2.png](img_2.png)
+![img_2.png](src/img/img_2.png)
