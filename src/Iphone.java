@@ -2,6 +2,8 @@ import funcionalidades.navegador.Navegador;
 import funcionalidades.navegador.Site;
 import funcionalidades.reprodutordemusica.Musica;
 import funcionalidades.reprodutordemusica.ReprodutorMusica;
+import funcionalidades.telefone.Contato;
+import funcionalidades.telefone.Telefone;
 
 public class Iphone {
     public static void main(String[] args) {
@@ -52,5 +54,19 @@ public class Iphone {
         chrome.limparPesquisa();
 
         chrome.exibirHistorico();
+
+        Contato rembert = new Contato();
+        rembert.setNome("Rembert VanDamme");
+        rembert.setNumero("1190807060");
+
+        Contato erick = new Contato();
+        erick.setNome("Erick Silva");
+        erick.setNumero("1180908070");
+
+        Telefone discador = new Telefone();
+        discador.salvarContato(rembert);
+        discador.salvarContato(erick);
+        discador.editarConta("Rembert VanDamme", "Nilbert Elves");
+        discador.mostrarLista();
     }
 }

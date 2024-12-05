@@ -71,7 +71,7 @@ public class Navegador {
                 }
             }
         } else {
-            System.out.println("Não encontramos nenhuma pesquisa!");
+            System.out.println("Não encontramos nenhum histórico de pesquisa!");
         }
     }
 }

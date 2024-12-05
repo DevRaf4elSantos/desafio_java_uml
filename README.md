@@ -59,4 +59,14 @@ Com esse resuldo comecei a desenvolver a classe de navegação e telefone com a 
 ![img.png](src/img/img.png)
 
 
-![img_2.png](src/img/img_2.png)
+![img_2.png](src/img/img_2.png)♂
+
+![img.png](img.png)
+
+Caso tenha alguma dúvida pode olhar diretamente no repositório para ver a aplicação dos códigos;
+
+
+## Possíveis melhorias:
+ * Seguindo o conceito do DRY <b>*(Don't Repeat Yourself)*</b> poderia desenvolver algumas abstrações a fim de possibilitar o reuso como por exemplo: criar uma classe de validação que ficaria responsável por esse domínio na aplicação.
+
+RafaelSantos - 14:23 - 05/12/2024.
