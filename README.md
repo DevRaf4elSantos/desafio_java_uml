@@ -54,4 +54,9 @@ E obtive sucesso como mostram os resultados:
 
 ![image](https://github.com/user-attachments/assets/e76a99a8-03e9-492e-915e-2e454dbdd059)
 
-Com esse resuldo comecei a desenvolver a outra solução ......
+Com esse resuldo comecei a desenvolver a classe de navegação e telefone com a mesma estrutura obtendo bons resultados como mostrado na imagem abaixo:
+
+![img.png](img.png)
+
+
+![img_2.png](img_2.png)
